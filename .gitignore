@@ -1,0 +1,17 @@
+# Python 虛擬環境與快取
+.venv
+__pycache__
+
+# 模型權重與訓練輸出（檔案太大，不放進 git）
+best/
+vit_breastcancer_model/
+*.safetensors
+*.pt
+*.pth
+*.bin
+
+# 實驗紀錄工具
+wandb/
+
+# macOS 系統檔
+.DS_Store

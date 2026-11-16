@@ -1,0 +1,10 @@
+# Python 3.15.2
+# 只列出程式直接用到的套件；其他依賴 pip 會自動安裝
+# 完整環境（所有套件的確切版本）見 requirements-lock.txt
+datasets==5.2.0
+transformers==5.23.0
+accelerate==1.15.0
+torch==2.15.0
+torchvision==0.29.2
+numpy==2.5.5
+scikit-learn==1.9.1
