@@ -15,3 +15,8 @@ wandb/
 
 # macOS 系統檔
 .DS_Store
+
+# CT 原始影像與產生的切片（檔案太大／可重新產生）
+*.mha
+test/mini_images_10/
+test/patches/
